@@ -1,0 +1,8 @@
+com\challenge\user\profile\service\UserProfileServiceImpl.class
+com\challenge\user\profile\entity\UserProfile$UserProfileBuilder.class
+com\challenge\user\profile\controller\UserProfileController.class
+com\challenge\user\profile\UserProfileApplication.class
+com\challenge\user\profile\service\UserProfileService.class
+com\challenge\user\profile\entity\UserProfile$Address.class
+com\challenge\user\profile\repository\UserProfileRepository.class
+com\challenge\user\profile\entity\UserProfile.class
